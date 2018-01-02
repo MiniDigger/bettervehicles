@@ -4,6 +4,7 @@ buildscript {
     ext.kotson_version = "2.5.0"
     ext.spigot_version = "1.12.2-R0.1-SNAPSHOT"
     ext.grgit_version = "1.1.0"
+    ext.kotlintest_version = "2.0.7"
 
     repositories {
         mavenCentral()
@@ -34,7 +35,11 @@ repositories {
 dependencies {
     compile "org.jetbrains.kotlin:kotlin-stdlib-jdk8:$kotlin_version"
     compile "com.github.salomonbrys.kotson:kotson:$kotson_version"
+
     compileOnly "org.spigotmc:spigot-api:$spigot_version"
+    testRuntime "org.spigotmc:spigot-api:$spigot_version"
+
+    testCompile "io.kotlintest:kotlintest:$kotlintest_version"
 }
 
 ext{
