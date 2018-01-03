@@ -29,7 +29,7 @@ class BetterVehicles : JavaPlugin(), Listener {
 
             object : BukkitRunnable(){
                 override fun run() {
-                    model.despawn()
+          //          model.despawn()
                 }
             }.runTaskLater(this, 20*20)
         }

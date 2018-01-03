@@ -1,0 +1,522 @@
+{
+  "objects": [
+    {
+      "userData": {
+        "name": "Object 1",
+        "selected": false,
+        "rawid": "iron_trapdoor",
+        "blockid": "id:iron_trapdoor",
+        "size": "large",
+        "customname": "HbVYA",
+        "isItem": false,
+        "isDynamic": true,
+        "visible": true,
+        "customnbt": "",
+        "justAdded": true,
+        "beforeDirProcessing": {
+          "x": -0.15625,
+          "y": 1.6875,
+          "z": 0
+        },
+        "beforeDirProcessingRot": {
+          "x": 0,
+          "y": 0,
+          "z": 2.356194490192345
+        }
+      },
+      "uuid": "9FDCF898-5267-4B10-87CD-37E67C8F1428"
+    },
+    {
+      "userData": {
+        "name": "Object 1 (Copy 1)",
+        "selected": false,
+        "rawid": "iron_trapdoor",
+        "blockid": "id:iron_trapdoor",
+        "size": "large",
+        "customname": "DaShZ",
+        "isItem": false,
+        "isDynamic": true,
+        "visible": true,
+        "customnbt": "",
+        "justAdded": true,
+        "beforeDirProcessing": {
+          "x": -1.34375,
+          "y": 0.9375,
+          "z": 0
+        },
+        "beforeDirProcessingRot": {
+          "x": 0,
+          "y": 0,
+          "z": -0.7853981633974483
+        }
+      },
+      "uuid": "63A24D83-E5CB-4E32-BCFC-ACE3ACB9E4E6"
+    },
+    {
+      "userData": {
+        "name": "Object 1 (Copy 2)",
+        "selected": false,
+        "rawid": "iron_trapdoor",
+        "blockid": "id:iron_trapdoor",
+        "size": "large",
+        "customname": "WoqtW",
+        "isItem": false,
+        "isDynamic": true,
+        "visible": true,
+        "customnbt": "",
+        "justAdded": true,
+        "beforeDirProcessing": {
+          "x": -1.5,
+          "y": 1.3125,
+          "z": 0
+        },
+        "beforeDirProcessingRot": {
+          "x": 0,
+          "y": 0,
+          "z": -1.5707963267948966
+        }
+      },
+      "uuid": "F3051E28-1527-4708-A0DF-085BF5F79A7C"
+    },
+    {
+      "userData": {
+        "name": "Object 1 (Copy 2)",
+        "selected": false,
+        "rawid": "iron_trapdoor",
+        "blockid": "id:iron_trapdoor",
+        "size": "large",
+        "customname": "uHlxn",
+        "isItem": false,
+        "isDynamic": true,
+        "visible": true,
+        "customnbt": "",
+        "justAdded": true,
+        "beforeDirProcessing": {
+          "x": -0.15625,
+          "y": 0.9375,
+          "z": 0
+        },
+        "beforeDirProcessingRot": {
+          "x": 0,
+          "y": 0,
+          "z": 0.7853981633974483
+        }
+      },
+      "uuid": "73C3D3E5-AB95-4ED4-B5DA-36F620B184A1"
+    },
+    {
+      "userData": {
+        "name": "Object 1 (Copy 3)",
+        "selected": false,
+        "rawid": "iron_trapdoor",
+        "blockid": "id:iron_trapdoor",
+        "size": "large",
+        "customname": "DsBv7",
+        "isItem": false,
+        "isDynamic": true,
+        "visible": true,
+        "customnbt": "",
+        "justAdded": true,
+        "beforeDirProcessing": {
+          "x": 0,
+          "y": 1.3125,
+          "z": 0
+        },
+        "beforeDirProcessingRot": {
+          "x": 0,
+          "y": 0,
+          "z": 1.5707963267948966
+        }
+      },
+      "uuid": "67B31F5A-82A8-43E6-B34F-7A64CF70F42F"
+    },
+    {
+      "userData": {
+        "name": "Object 1 (Copy 1)",
+        "selected": false,
+        "rawid": "iron_trapdoor",
+        "blockid": "id:iron_trapdoor",
+        "size": "large",
+        "customname": "JrcTX",
+        "isItem": false,
+        "isDynamic": true,
+        "visible": true,
+        "customnbt": "",
+        "justAdded": true,
+        "beforeDirProcessing": {
+          "x": -1.34375,
+          "y": 1.6875,
+          "z": 0
+        },
+        "beforeDirProcessingRot": {
+          "x": 0,
+          "y": 0,
+          "z": -2.356194490192345
+        }
+      },
+      "uuid": "70A27AEB-F22B-406E-A8A7-47E2C933CC7D"
+    },
+    {
+      "userData": {
+        "name": "Object 7",
+        "selected": false,
+        "rawid": "anvil",
+        "blockid": "id:anvil",
+        "size": "large",
+        "customname": "mKDsX",
+        "isItem": false,
+        "isDynamic": true,
+        "visible": true,
+        "customnbt": "",
+        "justAdded": true,
+        "beforeDirProcessing": {
+          "x": -0.125,
+          "y": 1.3125,
+          "z": 0
+        },
+        "beforeDirProcessingRot": {
+          "x": 0,
+          "y": 0,
+          "z": -1.5707963267948966
+        }
+      },
+      "uuid": "1304F1D0-BCAC-4783-BD7D-D11A54F6D979"
+    },
+    {
+      "userData": {
+        "name": "Object 8",
+        "selected": false,
+        "rawid": "iron_block",
+        "blockid": "id:iron_block",
+        "size": "large",
+        "customname": "UE1_r",
+        "isItem": false,
+        "isDynamic": true,
+        "visible": true,
+        "customnbt": "",
+        "justAdded": true,
+        "beforeDirProcessing": {
+          "x": -0.75,
+          "y": 1.3125,
+          "z": 0
+        },
+        "beforeDirProcessingRot": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "uuid": "BDE2C022-F980-4180-8281-7D024AD48B54"
+    },
+    {
+      "userData": {
+        "name": "Object 9",
+        "selected": false,
+        "rawid": "anvil",
+        "blockid": "id:anvil",
+        "size": "large",
+        "customname": "ayAF9",
+        "isItem": false,
+        "isDynamic": true,
+        "visible": true,
+        "customnbt": "",
+        "justAdded": true,
+        "enableRotCenter": true,
+        "beforeDirProcessing": {
+          "x": -1.375,
+          "y": 1.3125,
+          "z": 0
+        },
+        "beforeDirProcessingRot": {
+          "x": 0,
+          "y": 0,
+          "z": 1.5707963267948966
+        }
+      },
+      "uuid": "05A84E93-EFEA-4478-BE8D-585184F843E9"
+    },
+    {
+      "userData": {
+        "name": "Object 10",
+        "selected": false,
+        "rawid": "glass",
+        "blockid": "id:glass",
+        "size": "medium",
+        "customname": "tgtdA",
+        "isItem": false,
+        "isDynamic": true,
+        "visible": true,
+        "customnbt": "",
+        "justAdded": true,
+        "beforeDirProcessing": {
+          "x": -0.75,
+          "y": 1.3125,
+          "z": 0.1875
+        },
+        "beforeDirProcessingRot": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "uuid": "C571FDB4-E5C5-4415-87AF-652716419B8C"
+    },
+    {
+      "userData": {
+        "name": "Object 11",
+        "selected": false,
+        "rawid": "coal_block",
+        "blockid": "id:coal_block",
+        "size": "medium",
+        "customname": "d88LU",
+        "isItem": false,
+        "isDynamic": true,
+        "visible": true,
+        "customnbt": "",
+        "justAdded": true,
+        "beforeDirProcessing": {
+          "x": -0.75,
+          "y": 1.3125,
+          "z": 0.125
+        },
+        "beforeDirProcessingRot": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "uuid": "1AB11603-6CC2-4DF9-9C35-AB55DDD0F9AD"
+    }
+  ],
+  "keyframes": [
+    {
+      "ontick": 0,
+      "objects": [
+        {
+          "customname": "HbVYA",
+          "position": {
+            "x": -0.15625,
+            "y": 1.6875,
+            "z": 0
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 2.356194490192345
+          },
+          "size": 0.625,
+          "uuid": "9FDCF898-5267-4B10-87CD-37E67C8F1428",
+          "visible": true
+        },
+        {
+          "customname": "DaShZ",
+          "position": {
+            "x": -1.34375,
+            "y": 0.9375,
+            "z": 0
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": -0.7853981633974483
+          },
+          "size": 0.625,
+          "uuid": "63A24D83-E5CB-4E32-BCFC-ACE3ACB9E4E6",
+          "visible": true
+        },
+        {
+          "customname": "WoqtW",
+          "position": {
+            "x": -1.5,
+            "y": 1.3125,
+            "z": 0
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": -1.5707963267948966
+          },
+          "size": 0.625,
+          "uuid": "F3051E28-1527-4708-A0DF-085BF5F79A7C",
+          "visible": true
+        },
+        {
+          "customname": "uHlxn",
+          "position": {
+            "x": -0.15625,
+            "y": 0.9375,
+            "z": 0
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0.7853981633974483
+          },
+          "size": 0.625,
+          "uuid": "73C3D3E5-AB95-4ED4-B5DA-36F620B184A1",
+          "visible": true
+        },
+        {
+          "customname": "DsBv7",
+          "position": {
+            "x": 0,
+            "y": 1.3125,
+            "z": 0
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 1.5707963267948966
+          },
+          "size": 0.625,
+          "uuid": "67B31F5A-82A8-43E6-B34F-7A64CF70F42F",
+          "visible": true
+        },
+        {
+          "customname": "JrcTX",
+          "position": {
+            "x": -1.34375,
+            "y": 1.6875,
+            "z": 0
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": -2.356194490192345
+          },
+          "size": 0.625,
+          "uuid": "70A27AEB-F22B-406E-A8A7-47E2C933CC7D",
+          "visible": true
+        },
+        {
+          "customname": "mKDsX",
+          "position": {
+            "x": -0.125,
+            "y": 1.3125,
+            "z": 0
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": -1.5707963267948966
+          },
+          "size": 0.625,
+          "uuid": "1304F1D0-BCAC-4783-BD7D-D11A54F6D979",
+          "visible": true
+        },
+        {
+          "customname": "UE1_r",
+          "position": {
+            "x": -0.75,
+            "y": 1.3125,
+            "z": 0
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "size": 0.625,
+          "uuid": "BDE2C022-F980-4180-8281-7D024AD48B54",
+          "visible": true
+        },
+        {
+          "customname": "ayAF9",
+          "position": {
+            "x": -1.375,
+            "y": 1.3125,
+            "z": 0
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 1.5707963267948966
+          },
+          "size": 0.625,
+          "uuid": "05A84E93-EFEA-4478-BE8D-585184F843E9",
+          "visible": true
+        },
+        {
+          "customname": "tgtdA",
+          "position": {
+            "x": -0.75,
+            "y": 1.3125,
+            "z": 0.1875
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "size": 0.4375,
+          "uuid": "C571FDB4-E5C5-4415-87AF-652716419B8C",
+          "visible": true
+        },
+        {
+          "customname": "d88LU",
+          "position": {
+            "x": -0.75,
+            "y": 1.3125,
+            "z": 0.125
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "size": 0.4375,
+          "uuid": "1AB11603-6CC2-4DF9-9C35-AB55DDD0F9AD",
+          "visible": true
+        }
+      ],
+      "scenerot": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "cc": []
+    }
+  ],
+  "tweening": [],
+  "settings": {
+    "options": {
+      "showaxis": false,
+      "showmovers": true,
+      "uniquestr": "nhmO6",
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "offset": {
+        "abs": false,
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "armswayX": "",
+      "armswayY": "",
+      "armswayZ": "",
+      "armswayTicks": ""
+    },
+    "generate": {
+      "placeat": "@e[type=Squid]",
+      "giveegg": true,
+      "attach": "",
+      "rawcmds": false
+    },
+    "animation": {
+      "enable": false,
+      "loop": true,
+      "interpolate": true,
+      "ticks": "20",
+      "strict": false,
+      "armsway": false,
+      "armswayX": "",
+      "armswayY": "",
+      "armswayZ": "",
+      "armswayTicks": ""
+    }
+  },
+  "blankarmorstands": []
+}
