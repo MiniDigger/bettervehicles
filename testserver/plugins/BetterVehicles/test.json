@@ -1,0 +1,683 @@
+{
+  "objects": [
+    {
+      "userData": {
+        "name": "Object 1",
+        "selected": false,
+        "rawid": "stone",
+        "blockid": "id:stone",
+        "customname": "dvclJ",
+        "isItem": false,
+        "enableRotCenter": true,
+        "size": "small",
+        "isDynamic": true,
+        "visible": true,
+        "customnbt": "",
+        "translation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "justAdded": true,
+        "highlight": false
+      },
+      "uuid": "BA89A75F-1EA9-4FBB-87E8-0BAC8440320E"
+    },
+    {
+      "userData": {
+        "name": "Object 1 (Copy 1)",
+        "selected": false,
+        "rawid": "stone",
+        "blockid": "id:stone",
+        "customname": "NhGg8",
+        "isItem": false,
+        "enableRotCenter": true,
+        "size": "medium",
+        "isDynamic": true,
+        "visible": true,
+        "customnbt": "",
+        "translation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "justAdded": true,
+        "highlight": false
+      },
+      "uuid": "43FA760F-49F3-4E93-B413-79B51321606A"
+    },
+    {
+      "userData": {
+        "name": "Object 1 (Copy 1)",
+        "selected": false,
+        "rawid": "stone",
+        "blockid": "id:stone",
+        "customname": "USEPO",
+        "isItem": false,
+        "enableRotCenter": true,
+        "size": "large",
+        "isDynamic": true,
+        "visible": true,
+        "customnbt": "",
+        "translation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "justAdded": true,
+        "highlight": false
+      },
+      "uuid": "69F1814F-A294-485B-8B4D-661060721FAD"
+    },
+    {
+      "userData": {
+        "name": "Object 1 (Copy 1)",
+        "selected": false,
+        "rawid": "stone",
+        "blockid": "id:stone",
+        "customname": "Oprw1",
+        "isItem": false,
+        "enableRotCenter": true,
+        "size": "solid",
+        "isDynamic": true,
+        "visible": true,
+        "customnbt": "",
+        "translation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "justAdded": true,
+        "highlight": false
+      },
+      "uuid": "29EC0CC8-134F-4175-9CE4-46B7B05D10A5"
+    },
+    {
+      "userData": {
+        "name": "Object 1 (Copy 1)",
+        "selected": false,
+        "rawid": "stone",
+        "blockid": "id:stone",
+        "customname": "N74RY",
+        "isItem": false,
+        "enableRotCenter": true,
+        "size": "small",
+        "isDynamic": true,
+        "visible": true,
+        "customnbt": "",
+        "translation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "justAdded": true,
+        "highlight": false
+      },
+      "uuid": "D49DEEF0-00EB-4524-8C39-2E53575997F1"
+    },
+    {
+      "userData": {
+        "name": "Object 1 (Copy 2)",
+        "selected": false,
+        "rawid": "stone",
+        "blockid": "id:stone",
+        "customname": "CJF7g",
+        "isItem": false,
+        "enableRotCenter": true,
+        "size": "medium",
+        "isDynamic": true,
+        "visible": true,
+        "customnbt": "",
+        "translation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "justAdded": true,
+        "highlight": false
+      },
+      "uuid": "B140EC5B-1221-4E86-BFAA-54B02AA88BAD"
+    },
+    {
+      "userData": {
+        "name": "Object 1 (Copy 2)",
+        "selected": false,
+        "rawid": "stone",
+        "blockid": "id:stone",
+        "customname": "dfALP",
+        "isItem": false,
+        "enableRotCenter": true,
+        "size": "large",
+        "isDynamic": true,
+        "visible": true,
+        "customnbt": "",
+        "translation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "justAdded": true,
+        "highlight": false
+      },
+      "uuid": "0E1A0C90-116F-4EC5-803B-5C177E2CECE4"
+    },
+    {
+      "userData": {
+        "name": "Object 1 (Copy 2)",
+        "selected": false,
+        "rawid": "stone",
+        "blockid": "id:stone",
+        "customname": "VzUfR",
+        "isItem": false,
+        "enableRotCenter": true,
+        "size": "solid",
+        "isDynamic": true,
+        "visible": true,
+        "customnbt": "",
+        "translation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "justAdded": true,
+        "highlight": false
+      },
+      "uuid": "69F4104E-650F-4A91-AB72-AEC831F494CE"
+    },
+    {
+      "userData": {
+        "name": "Object 1 (Copy 3)",
+        "selected": false,
+        "rawid": "stone",
+        "blockid": "id:stone",
+        "customname": "5QMuv",
+        "isItem": false,
+        "enableRotCenter": true,
+        "size": "solid",
+        "isDynamic": true,
+        "visible": true,
+        "customnbt": "",
+        "translation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "justAdded": true,
+        "highlight": false
+      },
+      "uuid": "7C7E8211-610D-4C03-B1E4-28585EAA977C"
+    },
+    {
+      "userData": {
+        "name": "Object 1 (Copy 2)",
+        "selected": false,
+        "rawid": "stone",
+        "blockid": "id:stone",
+        "customname": "t8vPc",
+        "isItem": false,
+        "enableRotCenter": true,
+        "size": "large",
+        "isDynamic": true,
+        "visible": true,
+        "customnbt": "",
+        "translation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "justAdded": true,
+        "highlight": false
+      },
+      "uuid": "A1D1617B-DC38-494D-B23B-C1D1454CD401"
+    },
+    {
+      "userData": {
+        "name": "Object 1 (Copy 2)",
+        "selected": false,
+        "rawid": "stone",
+        "blockid": "id:stone",
+        "customname": "VJzuB",
+        "isItem": false,
+        "enableRotCenter": true,
+        "size": "medium",
+        "isDynamic": true,
+        "visible": true,
+        "customnbt": "",
+        "translation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "justAdded": true,
+        "highlight": false
+      },
+      "uuid": "CE2D5B93-AEE6-413E-B03C-EEDA26733099"
+    },
+    {
+      "userData": {
+        "name": "Object 1 (Copy 1)",
+        "selected": false,
+        "rawid": "stone",
+        "blockid": "id:stone",
+        "customname": "aqrJu",
+        "isItem": false,
+        "enableRotCenter": true,
+        "size": "small",
+        "isDynamic": true,
+        "visible": true,
+        "customnbt": "",
+        "translation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "justAdded": true,
+        "highlight": false
+      },
+      "uuid": "4C123E88-1B9D-42AD-BEC0-A9040BEE1100"
+    },
+    {
+      "userData": {
+        "name": "Object 1 (Copy 2)",
+        "selected": false,
+        "rawid": "stone",
+        "blockid": "id:stone",
+        "customname": "01aHs",
+        "isItem": false,
+        "enableRotCenter": true,
+        "size": "solid",
+        "isDynamic": true,
+        "visible": true,
+        "customnbt": "",
+        "translation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "justAdded": true,
+        "highlight": false
+      },
+      "uuid": "F81144DC-6601-4B0D-A201-06D90656E026"
+    },
+    {
+      "userData": {
+        "name": "Object 1 (Copy 2)",
+        "selected": false,
+        "rawid": "stone",
+        "blockid": "id:stone",
+        "customname": "baEPp",
+        "isItem": false,
+        "enableRotCenter": true,
+        "size": "large",
+        "isDynamic": true,
+        "visible": true,
+        "customnbt": "",
+        "translation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "justAdded": true,
+        "highlight": false
+      },
+      "uuid": "AC490437-AFC4-49EA-A44F-40490A974E47"
+    },
+    {
+      "userData": {
+        "name": "Object 1 (Copy 2)",
+        "selected": false,
+        "rawid": "stone",
+        "blockid": "id:stone",
+        "customname": "OIHBh",
+        "isItem": false,
+        "enableRotCenter": true,
+        "size": "medium",
+        "isDynamic": true,
+        "visible": true,
+        "customnbt": "",
+        "translation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "justAdded": true,
+        "highlight": false
+      },
+      "uuid": "6646C4E7-6BEE-4E5B-82F3-4FFC5B10A08B"
+    },
+    {
+      "userData": {
+        "name": "Object 1 (Copy 1)",
+        "selected": false,
+        "rawid": "stone",
+        "blockid": "id:stone",
+        "customname": "OrNDv",
+        "isItem": false,
+        "enableRotCenter": true,
+        "size": "small",
+        "isDynamic": true,
+        "visible": true,
+        "customnbt": "",
+        "translation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "justAdded": true,
+        "highlight": false
+      },
+      "uuid": "F9FD0F20-15EB-4503-93CB-69367764F18A"
+    }
+  ],
+  "keyframes": [
+    {
+      "ontick": 0,
+      "objects": [
+        {
+          "customname": "dvclJ",
+          "position": {
+            "x": 0,
+            "y": 2.14063,
+            "z": 0
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "size": 0.28125,
+          "uuid": "BA89A75F-1EA9-4FBB-87E8-0BAC8440320E",
+          "visible": true
+        },
+        {
+          "customname": "NhGg8",
+          "position": {
+            "x": 0,
+            "y": 1.81875,
+            "z": 0
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "size": 0.4375,
+          "uuid": "43FA760F-49F3-4E93-B413-79B51321606A",
+          "visible": true
+        },
+        {
+          "customname": "USEPO",
+          "position": {
+            "x": 0,
+            "y": 1.3125,
+            "z": 0
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "size": 0.625,
+          "uuid": "69F1814F-A294-485B-8B4D-661060721FAD",
+          "visible": true
+        },
+        {
+          "customname": "Oprw1",
+          "position": {
+            "x": 0,
+            "y": 0.5,
+            "z": 0
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "size": 1,
+          "uuid": "29EC0CC8-134F-4175-9CE4-46B7B05D10A5",
+          "visible": true
+        },
+        {
+          "customname": "N74RY",
+          "position": {
+            "x": 0,
+            "y": 2.14063,
+            "z": 1
+          },
+          "rotation": {
+            "x": 0.8726646259971648,
+            "y": 0,
+            "z": 0
+          },
+          "size": 0.28125,
+          "uuid": "D49DEEF0-00EB-4524-8C39-2E53575997F1",
+          "visible": true
+        },
+        {
+          "customname": "CJF7g",
+          "position": {
+            "x": 0,
+            "y": 1.81875,
+            "z": 1
+          },
+          "rotation": {
+            "x": 0.8726646259971648,
+            "y": 0,
+            "z": 0
+          },
+          "size": 0.4375,
+          "uuid": "B140EC5B-1221-4E86-BFAA-54B02AA88BAD",
+          "visible": true
+        },
+        {
+          "customname": "dfALP",
+          "position": {
+            "x": 0,
+            "y": 1.3125,
+            "z": 1
+          },
+          "rotation": {
+            "x": 0.8726646259971648,
+            "y": 0,
+            "z": 0
+          },
+          "size": 0.625,
+          "uuid": "0E1A0C90-116F-4EC5-803B-5C177E2CECE4",
+          "visible": true
+        },
+        {
+          "customname": "VzUfR",
+          "position": {
+            "x": 0,
+            "y": 0.5,
+            "z": 1
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "size": 1,
+          "uuid": "69F4104E-650F-4A91-AB72-AEC831F494CE",
+          "visible": true
+        },
+        {
+          "customname": "5QMuv",
+          "position": {
+            "x": 0,
+            "y": 0.5,
+            "z": -1
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "size": 1,
+          "uuid": "7C7E8211-610D-4C03-B1E4-28585EAA977C",
+          "visible": true
+        },
+        {
+          "customname": "t8vPc",
+          "position": {
+            "x": 0,
+            "y": 1.3125,
+            "z": -1
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0.8726646259971648,
+            "z": 0
+          },
+          "size": 0.625,
+          "uuid": "A1D1617B-DC38-494D-B23B-C1D1454CD401",
+          "visible": true
+        },
+        {
+          "customname": "VJzuB",
+          "position": {
+            "x": 0,
+            "y": 1.81875,
+            "z": -1
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0.8726646259971648,
+            "z": 0
+          },
+          "size": 0.4375,
+          "uuid": "CE2D5B93-AEE6-413E-B03C-EEDA26733099",
+          "visible": true
+        },
+        {
+          "customname": "aqrJu",
+          "position": {
+            "x": 0,
+            "y": 2.14063,
+            "z": -1
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0.8726646259971648,
+            "z": 0
+          },
+          "size": 0.28125,
+          "uuid": "4C123E88-1B9D-42AD-BEC0-A9040BEE1100",
+          "visible": true
+        },
+        {
+          "customname": "01aHs",
+          "position": {
+            "x": 1,
+            "y": 0.5,
+            "z": 0
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "size": 1,
+          "uuid": "F81144DC-6601-4B0D-A201-06D90656E026",
+          "visible": true
+        },
+        {
+          "customname": "baEPp",
+          "position": {
+            "x": 1,
+            "y": 1.3125,
+            "z": 0
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0.8726646259971648
+          },
+          "size": 0.625,
+          "uuid": "AC490437-AFC4-49EA-A44F-40490A974E47",
+          "visible": true
+        },
+        {
+          "customname": "OIHBh",
+          "position": {
+            "x": 1,
+            "y": 1.81875,
+            "z": 0
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0.8726646259971648
+          },
+          "size": 0.4375,
+          "uuid": "6646C4E7-6BEE-4E5B-82F3-4FFC5B10A08B",
+          "visible": true
+        },
+        {
+          "customname": "OrNDv",
+          "position": {
+            "x": 1,
+            "y": 2.14063,
+            "z": 0
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "size": 0.28125,
+          "uuid": "F9FD0F20-15EB-4503-93CB-69367764F18A",
+          "visible": true
+        }
+      ],
+      "scenerot": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "cc": []
+    }
+  ],
+  "tweening": [],
+  "settings": {
+    "options": {
+      "showaxis": false,
+      "showmovers": true,
+      "uniquestr": "AM_RA9j69",
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "offset": {
+        "abs": false,
+        "x": null,
+        "y": null,
+        "z": null
+      },
+      "armswayX": "",
+      "armswayY": "",
+      "armswayZ": "",
+      "armswayTicks": ""
+    },
+    "generate": {
+      "placeat": "@e[type=Squid]",
+      "giveegg": true,
+      "attach": "",
+      "rawcmds": false
+    },
+    "animation": {
+      "enable": false,
+      "loop": true,
+      "interpolate": true,
+      "ticks": "20",
+      "strict": false,
+      "armsway": false,
+      "armswayX": "",
+      "armswayY": "",
+      "armswayZ": "",
+      "armswayTicks": ""
+    }
+  },
+  "blankarmorstands": []
+}

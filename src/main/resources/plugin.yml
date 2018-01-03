@@ -1,0 +1,6 @@
+name: BetterVehicles
+version: 0.0.1
+author: MiniDigger
+main: me.minidigger.bettervehicles.BetterVehicles
+commands:
+  model:

@@ -1,0 +1,363 @@
+{
+  "objects": [
+    {
+      "userData": {
+        "name": "Object 1",
+        "selected": false,
+        "rawid": "iron_trapdoor",
+        "blockid": "id:iron_trapdoor",
+        "size": "large",
+        "customname": "HbVYA",
+        "isItem": false,
+        "isDynamic": true,
+        "visible": true,
+        "customnbt": "",
+        "justAdded": true
+      },
+      "uuid": "9fdcf898-5267-4b10-87cd-37e67c8f1428"
+    },
+    {
+      "userData": {
+        "name": "Object 1 (Copy 1)",
+        "selected": false,
+        "rawid": "iron_trapdoor",
+        "blockid": "id:iron_trapdoor",
+        "size": "large",
+        "customname": "DaShZ",
+        "isItem": false,
+        "isDynamic": true,
+        "visible": true,
+        "customnbt": "",
+        "justAdded": true
+      },
+      "uuid": "63a24d83-e5cb-4e32-bcfc-ace3acb9e4e6"
+    },
+    {
+      "userData": {
+        "name": "Object 1 (Copy 2)",
+        "selected": false,
+        "rawid": "iron_trapdoor",
+        "blockid": "id:iron_trapdoor",
+        "size": "large",
+        "customname": "WoqtW",
+        "isItem": false,
+        "isDynamic": true,
+        "visible": true,
+        "customnbt": "",
+        "justAdded": true
+      },
+      "uuid": "f3051e28-1527-4708-a0df-085bf5f79a7c"
+    },
+    {
+      "userData": {
+        "name": "Object 1 (Copy 2)",
+        "selected": false,
+        "rawid": "iron_trapdoor",
+        "blockid": "id:iron_trapdoor",
+        "size": "large",
+        "customname": "uHlxn",
+        "isItem": false,
+        "isDynamic": true,
+        "visible": true,
+        "customnbt": "",
+        "justAdded": true
+      },
+      "uuid": "73c3d3e5-ab95-4ed4-b5da-36f620b184a1"
+    },
+    {
+      "userData": {
+        "name": "Object 1 (Copy 3)",
+        "selected": false,
+        "rawid": "iron_trapdoor",
+        "blockid": "id:iron_trapdoor",
+        "size": "large",
+        "customname": "DsBv7",
+        "isItem": false,
+        "isDynamic": true,
+        "visible": true,
+        "customnbt": "",
+        "justAdded": true
+      },
+      "uuid": "67b31f5a-82a8-43e6-b34f-7a64cf70f42f"
+    },
+    {
+      "userData": {
+        "name": "Object 1 (Copy 1)",
+        "selected": false,
+        "rawid": "iron_trapdoor",
+        "blockid": "id:iron_trapdoor",
+        "size": "large",
+        "customname": "JrcTX",
+        "isItem": false,
+        "isDynamic": true,
+        "visible": true,
+        "customnbt": "",
+        "justAdded": true
+      },
+      "uuid": "70a27aeb-f22b-406e-a8a7-47e2c933cc7d"
+    },
+    {
+      "userData": {
+        "name": "Object 7",
+        "selected": false,
+        "rawid": "anvil",
+        "blockid": "id:anvil",
+        "size": "large",
+        "customname": "mKDsX",
+        "isItem": false,
+        "isDynamic": true,
+        "visible": true,
+        "customnbt": "",
+        "justAdded": true
+      },
+      "uuid": "1304f1d0-bcac-4783-bd7d-d11a54f6d979"
+    },
+    {
+      "userData": {
+        "name": "Object 8",
+        "selected": false,
+        "rawid": "iron_block",
+        "blockid": "id:iron_block",
+        "size": "large",
+        "customname": "UE1_r",
+        "isItem": false,
+        "isDynamic": true,
+        "visible": true,
+        "customnbt": "",
+        "justAdded": true
+      },
+      "uuid": "bde2c022-f980-4180-8281-7d024ad48b54"
+    },
+    {
+      "userData": {
+        "name": "Object 9",
+        "selected": false,
+        "rawid": "anvil",
+        "blockid": "id:anvil",
+        "size": "large",
+        "customname": "ayAF9",
+        "isItem": false,
+        "isDynamic": true,
+        "visible": true,
+        "customnbt": "",
+        "justAdded": true
+      },
+      "uuid": "05a84e93-efea-4478-be8d-585184f843e9"
+    },
+    {
+      "userData": {
+        "name": "Object 10",
+        "selected": false,
+        "rawid": "glass",
+        "blockid": "id:glass",
+        "size": "medium",
+        "customname": "tgtdA",
+        "isItem": false,
+        "isDynamic": true,
+        "visible": true,
+        "customnbt": "",
+        "justAdded": true
+      },
+      "uuid": "c571fdb4-e5c5-4415-87af-652716419b8c"
+    },
+    {
+      "userData": {
+        "name": "Object 11",
+        "selected": false,
+        "rawid": "coal_block",
+        "blockid": "id:coal_block",
+        "size": "medium",
+        "customname": "d88LU",
+        "isItem": false,
+        "isDynamic": true,
+        "visible": true,
+        "customnbt": "",
+        "justAdded": true
+      },
+      "uuid": "1ab11603-6cc2-4df9-9c35-ab55ddd0f9ad"
+    }
+  ],
+  "keyframes": [
+    {
+      "ontick": 0,
+      "objects": [
+        {
+          "customname": "HbVYA",
+          "position": {
+            "x": -0.15625,
+            "y": 1.6875,
+            "z": 0.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 2.356194490192345
+          },
+          "size": "large",
+          "uuid": "9fdcf898-5267-4b10-87cd-37e67c8f1428",
+          "visible": true
+        },
+        {
+          "customname": "DaShZ",
+          "position": {
+            "x": -1.34375,
+            "y": 0.9375,
+            "z": 0.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7853981633974483
+          },
+          "size": "large",
+          "uuid": "63a24d83-e5cb-4e32-bcfc-ace3acb9e4e6",
+          "visible": true
+        },
+        {
+          "customname": "WoqtW",
+          "position": {
+            "x": -1.5,
+            "y": 1.3125,
+            "z": 0.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -1.5707963267948966
+          },
+          "size": "large",
+          "uuid": "f3051e28-1527-4708-a0df-085bf5f79a7c",
+          "visible": true
+        },
+        {
+          "customname": "uHlxn",
+          "position": {
+            "x": -0.15625,
+            "y": 0.9375,
+            "z": 0.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.7853981633974483
+          },
+          "size": "large",
+          "uuid": "73c3d3e5-ab95-4ed4-b5da-36f620b184a1",
+          "visible": true
+        },
+        {
+          "customname": "DsBv7",
+          "position": {
+            "x": 0.0,
+            "y": 1.3125,
+            "z": 0.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.5707963267948966
+          },
+          "size": "large",
+          "uuid": "67b31f5a-82a8-43e6-b34f-7a64cf70f42f",
+          "visible": true
+        },
+        {
+          "customname": "JrcTX",
+          "position": {
+            "x": -1.34375,
+            "y": 1.6875,
+            "z": 0.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -2.356194490192345
+          },
+          "size": "large",
+          "uuid": "70a27aeb-f22b-406e-a8a7-47e2c933cc7d",
+          "visible": true
+        },
+        {
+          "customname": "mKDsX",
+          "position": {
+            "x": -0.125,
+            "y": 1.3125,
+            "z": 0.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -1.5707963267948966
+          },
+          "size": "large",
+          "uuid": "1304f1d0-bcac-4783-bd7d-d11a54f6d979",
+          "visible": true
+        },
+        {
+          "customname": "UE1_r",
+          "position": {
+            "x": -0.75,
+            "y": 1.3125,
+            "z": 0.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "size": "large",
+          "uuid": "bde2c022-f980-4180-8281-7d024ad48b54",
+          "visible": true
+        },
+        {
+          "customname": "ayAF9",
+          "position": {
+            "x": -1.375,
+            "y": 1.3125,
+            "z": 0.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.5707963267948966
+          },
+          "size": "large",
+          "uuid": "05a84e93-efea-4478-be8d-585184f843e9",
+          "visible": true
+        },
+        {
+          "customname": "tgtdA",
+          "position": {
+            "x": -0.75,
+            "y": 1.3125,
+            "z": 0.1875
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "size": "medium",
+          "uuid": "c571fdb4-e5c5-4415-87af-652716419b8c",
+          "visible": true
+        },
+        {
+          "customname": "d88LU",
+          "position": {
+            "x": -0.75,
+            "y": 1.3125,
+            "z": 0.125
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "size": "medium",
+          "uuid": "1ab11603-6cc2-4df9-9c35-ab55ddd0f9ad",
+          "visible": true
+        }
+      ]
+    }
+  ]
+}

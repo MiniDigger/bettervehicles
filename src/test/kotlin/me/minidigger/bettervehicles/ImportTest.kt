@@ -15,5 +15,12 @@ class ImportTest : StringSpec() {
             val model2 = modelHandler.loadModel("tie-fighter-exported")
             model shouldEqual model2
         }
+
+        "shouldn't crash" {
+            val modelHandler = ModelHandler(File("./src/test/resources"))
+            val model = modelHandler.loadModel("tie-fighter")
+            val am = modelHandler.toArmorStandModel(model)
+            println(am)
+        }
     }
 }

@@ -61,3 +61,8 @@ shadowJar {
     }
 }
 build.dependsOn shadowJar
+
+task copyToServer(dependsOn: 'jar', type: Copy) {
+    from 'build/libs/bettervehicles-' + project.version + '-all.jar'
+    into './testserver/plugins/'
+}
